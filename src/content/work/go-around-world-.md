@@ -13,8 +13,7 @@ tags:
 
 ## Travail effectué
 
-> 
-J’ai téléchargé une mise en page qui correspondait à ce que je recherchais, et deux plugins :
+<p>J’ai téléchargé une mise en page qui correspondait à ce que je recherchais, et deux plugins :
     • Wp forms  qui permet de créer et d'ajouter simplement un formulaire dans une page 
     • Cookie Notice Compliance for GDPR / CCPA qui permet de faire apparaître la fenêtre pour les cookies mais aussi de gérer la politique de confidentialité.
 J'ai choisi de créer 3 catégories ainsi que 2 sous-catégories pour chacune d'elles : 
@@ -25,7 +24,7 @@ J'ai choisi de créer 3 catégories ainsi que 2 sous-catégories pour chacune d'
 Le poste admin, permet l’accès a tous les articles, l’ajout, la modification ou suppression. Mais aussi l’organisation en fonction des rôles qui souhaite donner à chaque utilisateur. 
 Une carte représentant le pays ou le continent auquel il réfère devait être intégrée pour chaque article. 
 Pour ce faire, il suffit de se rendre sur GoogleMaps. Entrer un lieu, cliquer sur partager et copier le lien iframe. 
-Ensuite, il faut coller le lien iframe dans la section HTML sur la page article, dans WordPress.
+Ensuite, il faut coller le lien iframe dans la section HTML sur la page article, dans WordPress. </p>
 
 ### Moyen utilisés
 
