@@ -14,8 +14,8 @@ tags:
 ## Travail effectué
 
 J’ai téléchargé une mise en page qui correspondait à ce que je recherchais, et deux plugins :
-Wp forms  qui permet de créer et d'ajouter simplement un formulaire dans une page.
-Cookie Notice Compliance for GDPR / CCPA qui permet de faire apparaître la fenêtre pour les cookies mais aussi de gérer la politique de confidentialité. 
+<br> - Wp forms  qui permet de créer et d'ajouter simplement un formulaire dans une page.</br>
+<br> - Cookie Notice Compliance for GDPR / CCPA qui permet de faire apparaître la fenêtre pour les cookies mais aussi de gérer la politique de confidentialité. </br>
 J'ai choisi de créer 3 catégories ainsi que 2 sous-catégories pour chacune d'elles : 
 La première portant sur les monuments les plus visités au monde, ainsi que des lieux surréalistes et méconnu. 
 La seconde est dédiée aux hébergements se trouvant dans des lieux insolites, mais également des hôtels étoilés à des prix abordables. 
