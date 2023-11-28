@@ -1,0 +1,136 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+import ContactCTA from "../components/ContactCTA.astro";
+import Hero from "../components/Hero.astro";
+---
+
+<BaseLayout title="About | Jade Barbier" description="About Jade">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="About"
+				tagline="Découvrez mes projets et mes compétences"
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/at-work.jpg"
+					alt="Work env"
+				/>
+			</Hero>
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+						Après avoir suivi une classe préparatoire artistique, j'ai poursuivi ma passion en intégrant une école d'animation 3D pendant deux ans.
+						Forte de mon expérience dans le monde de la création visuelle, j'ai ensuite exploré le domaine du visual merchandising pendant une année, développant ainsi des compétences dans la présentation esthétique des produits.
+						Cependant, cherchant constamment de nouveaux défis, j'ai décidé de me lancer dans une reconversion professionnelle. Attirée par le monde du développement web, j'ai entrepris un parcours d'apprentissage intensif pour acquérir des compétences en programmation et en conception de sites web. 
+						Ma formation antérieure dans les arts visuels et mon bagage en animation 3D, m'ont fourni une perspective unique, intégrant la créativité artistique avec les aspects techniques du développement web.
+						Aujourd'hui, je combine avec succès mon expérience diversifiée en art, animation, visual merchandising et développement web. 
+						Ma polyvalence et ma capacité à fusionner l'esthétique visuelle avec la fonctionnalité technique font de moi une personne créative et innovante dans le domaine du développement web.
+					</p>
+				</div>
+			</section>
+
+			<section>
+				<h2 class="section-title">Formations</h2>
+				<div class="content">
+					<p>
+						Titre Concepteur Développeur d’Applications 2023/24 EPSI
+						Rennes
+					</p>
+					<p>
+						Certification Développeur Web - Web Mobile 2022/23 AFPA Territoire
+						Digital 
+					</p>
+					<p>
+						BTS Visuel Merchandising 2020/21 MJM Graphic Design
+						Rennes
+					</p>
+					<p>
+						Animation 3D/VFX 2018/20 Creative Seeds - Cesson Sévigné
+					</p>
+					<p>Prépa d'Arts 2017/18 MJM Graphic Design Rennes</p>
+				</div>
+			</section>
+
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p>Bon sens relationnel</p>
+					<p>Créative</p>
+					<p>Maîtrise de l’orthographe</p>
+					<p>Autonome</p>
+					<p>Organisée</p>
+					<p>Minutieuse</p>
+					<p>Esprit d'analyse</p>
+					<p>Esprit d'équipe</p>
+					<p>Adaptabilité</p>
+					<p>Empathie</p>
+					<p>Curieuse</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
