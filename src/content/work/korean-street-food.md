@@ -10,7 +10,9 @@ tags:
   - Design
   - Dev
 ---
+
 ## Travail effectué
+
 J’ai conçu un blog culinaire, ayant pour sujet la cuisine de rue Sud-Coréenne. J’ai utilisé le framework Symfony.
 Avant toute chose, j’installe PHP. Ensuite je dois installer Composer, qui est un gestionnaire de dépendances pour PHP. Dans le terminal j’exécute composer global require symfony/cli . Une fois l’installation terminée, je créer mon projet en utilisant la commande symfony new suivi du nom de mon projet.
 Je configure mon serveur web pour pointer vers le répertoire public de mon projet Symfony. cela garantira que les requêtes HTTP soient correctement dirigées vers l'application Symfony. Je configure les paramètres de base de données dans le fichier .env de mon projet pour spécifier le type de base de données, l'hôte, le nom de la base de données, l'utilisateur et le mot de passe. 
