@@ -11,14 +11,14 @@ tags:
 ---
 
 ## Travail effectué
-<p>Application qui recherche des musiques vidéos en fonction de l’humeur
-<br> Elaboration en groupe de 4.</br> 
+Application qui recherche des musiques vidéos en fonction de l’humeur
+Elaboration en groupe de 4. 
 Création architecture BDD et choix des cardinalités entre les tables
 Conception maquettes et logo
 Déterminer la charte graphique 
 Responsable front-end et mise en forme CSS
 Création d’un footer animé 
-Codage de la page politique de confidentialité adaptée à la musique</p>
+Codage de la page politique de confidentialité adaptée à la musique
 
 
 ### Moyen utilisés
