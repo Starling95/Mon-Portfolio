@@ -15,8 +15,8 @@ tags:
 
 > 
 J’ai téléchargé une mise en page qui correspondait à ce que je recherchais, et deux plugins :
-Wp forms  qui permet de créer et d'ajouter simplement un formulaire dans une page 
-Cookie Notice Compliance for GDPR / CCPA qui permet de faire apparaître la fenêtre pour les cookies mais aussi de gérer la politique de confidentialité.
+- Wp forms  qui permet de créer et d'ajouter simplement un formulaire dans une page 
+- Cookie Notice Compliance for GDPR / CCPA qui permet de faire apparaître la fenêtre pour les cookies mais aussi de gérer la politique de confidentialité.
 >
 > 
 J'ai choisi de créer 3 catégories ainsi que 2 sous-catégories pour chacune d'elles :
