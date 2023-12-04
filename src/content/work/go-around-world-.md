@@ -18,8 +18,8 @@ J’ai téléchargé une mise en page qui correspondait à ce que je recherchais
 Wp forms  qui permet de créer et d'ajouter simplement un formulaire dans une page 
 Cookie Notice Compliance for GDPR / CCPA qui permet de faire apparaître la fenêtre pour les cookies mais aussi de gérer la politique de confidentialité.
 J'ai choisi de créer 3 catégories ainsi que 2 sous-catégories pour chacune d'elles : 
-La première portant sur les monuments les plus visités au monde, ainsi que des lieux surréalistes et méconnu. 
-La seconde est dédiée aux hébergements se trouvant dans des lieux insolites, mais également des hôtels étoilés à des prix abordables. 
+<br>La première portant sur les monuments les plus visités au monde, ainsi que des lieux surréalistes et méconnu. 
+<br>La seconde est dédiée aux hébergements se trouvant dans des lieux insolites, mais également des hôtels étoilés à des prix abordables. 
 La troisième a pour sujet des restaurants aux décors atypiques et des restaurants étoilés proposant une cuisine exclusivement végétarienne. 
 Paramétrer un formulaire de contact était obligatoire, j’ai aussi paramétré un formulaire d'inscription pour devenir membre. J’ai également fait des recherches pour pouvoir fournir des informations cohérentes dans l’élaboration d’une page de politique de confidentialité concernant les domaines du tourisme et des voyages.
 Le poste admin, permet l’accès a tous les articles, l’ajout, la modification ou suppression. Mais aussi l’organisation en fonction des rôles qui souhaite donner à chaque utilisateur. 
