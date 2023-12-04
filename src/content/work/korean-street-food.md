@@ -43,11 +43,8 @@ L’utilisateur peut consulter les recettes et grâce à un formulaire, il peut 
     • CSS 
     • JavaScript
 
-
-
-
 <video width="1000" height="500" controls
   src="/assets/korean-street-food-home.mp4"
   type="video/mp4">
-  korean-street-food-home
+  music-mood-home
 </video>
