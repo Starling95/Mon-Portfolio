@@ -253,17 +253,3 @@ h5 {
 		gap: 12rem;
 	}
 }
-
-video{
-  position: relative;
-  padding-bottom: 56.25%; /* Pour maintenir le rapport hauteur/largeur à 16:9 */
-  padding-top: 30px; /* Vous pouvez ajuster cette valeur selon vos besoins */
-  height: 0;
-  overflow: hidden;
-position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
