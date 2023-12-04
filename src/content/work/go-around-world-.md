@@ -20,9 +20,10 @@ Cookie Notice Compliance for GDPR / CCPA qui permet de faire apparaître la fen�
 >
 > 
 J'ai choisi de créer 3 catégories ainsi que 2 sous-catégories pour chacune d'elles :
-+La première portant sur les monuments les plus visités au monde, ainsi que des lieux surréalistes et méconnu. 
-+La seconde est dédiée aux hébergements se trouvant dans des lieux insolites, mais également des hôtels étoilés à des prix abordables. 
-+La troisième a pour sujet des restaurants aux décors atypiques et des restaurants étoilés proposant une cuisine exclusivement végétarienne. 
+
+- La première portant sur les monuments les plus visités au monde, ainsi que des lieux surréalistes et méconnu. 
+- La seconde est dédiée aux hébergements se trouvant dans des lieux insolites, mais également des hôtels étoilés à des prix abordables. 
+- La troisième a pour sujet des restaurants aux décors atypiques et des restaurants étoilés proposant une cuisine exclusivement végétarienne. 
 >
 >
 Paramétrer un formulaire de contact était obligatoire, j’ai aussi paramétré un formulaire d'inscription pour devenir membre. 
