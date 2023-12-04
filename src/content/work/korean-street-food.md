@@ -48,4 +48,3 @@ L’utilisateur peut consulter les recettes et grâce à un formulaire, il peut 
   type="video/mp4">
   korean-street-food
 </video>
-
