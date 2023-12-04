@@ -27,8 +27,11 @@ J'ai choisi de créer 3 catégories ainsi que 2 sous-catégories pour chacune d'
 >
 >
 Paramétrer un formulaire de contact était obligatoire, j’ai aussi paramétré un formulaire d'inscription pour devenir membre. 
+
 J’ai également fait des recherches pour pouvoir fournir des informations cohérentes dans l’élaboration d’une page de politique de confidentialité concernant les domaines du tourisme et des voyages.
+
 Le poste admin, permet l’accès a tous les articles, l’ajout, la modification ou suppression. Mais aussi l’organisation en fonction des rôles qui souhaite donner à chaque utilisateur. 
+
 Une carte représentant le pays ou le continent auquel il réfère devait être intégrée pour chaque article. 
 Pour ce faire, il suffit de se rendre sur GoogleMaps. Entrer un lieu, cliquer sur partager et copier le lien iframe. 
 Ensuite, il faut coller le lien iframe dans la section HTML sur la page article, dans WordPress.
